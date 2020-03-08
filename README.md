@@ -42,7 +42,18 @@ Et voilà, vous avez commandé votre Instance NodeJs. Celle-ci apparaîtra sur l
 {% endtab %}
 
 {% tab title="Commander un hébergement web" %}
+Pour commander un hébergement web, commencez par vous rendre sur le [module de commande de services](https://umbo-france.eu/client/commander). Sélectionnez _Site web_.
 
+Deux champs devraient ensuite apparaître :
+
+![](.gitbook/assets/screenshot_1.png)
+
+* Le choix du sous-domaine **.umbo-france.eu** qui vous sera attribué
+* Le choix du mot de passe qui sera lié à votre compte [FTP](https://zone.votresite.ca/-/jVM0GRLJgp/).
+
+Vous pouvez ensuite valider votre commande.
+
+Et voilà, vous avez commandé votre hébergement web. Celui-ci apparaîtra sur la page [_Mes services_](https://umbo-france.eu/client/mes-services) dans quelques instants.
 {% endtab %}
 {% endtabs %}
 
