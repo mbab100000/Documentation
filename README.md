@@ -11,7 +11,9 @@ Pour commander un service gratuit chez UmboFrance, commencez par vous connecter 
 {% hint style="info" %}
 Si vous n'avez pas encore de compte, dirigez-vous vers [cette page](https://umbo-france.eu/client/inscription) pour vous inscrire.
 
-* Entrez des 
+* Entrez des prénom et nom **valides**.
+* Votre pseudo ne doit pas contenir d'espaces
+* Entrez une **adresse mail valide** à laquelle **vous avez accès**.
 {% endhint %}
 
 
