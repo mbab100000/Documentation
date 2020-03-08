@@ -14,6 +14,7 @@ Si vous n'avez pas encore de compte, dirigez-vous vers [cette page](https://umbo
 * Entrez des prénom et nom **valides**.
 * Votre pseudo ne doit pas contenir d'espaces
 * Entrez une **adresse mail valide** à laquelle **vous avez accès**.
+* Gardez bien soigneusement votre mot de passe, vous en aurez besoin ultérieurement.
 {% endhint %}
 
 
