@@ -46,5 +46,3 @@ Et voilà, vous avez commandé votre Instance NodeJs. Celle-ci apparaîtra sur l
 {% endtab %}
 {% endtabs %}
 
-test
-
