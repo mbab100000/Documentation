@@ -55,5 +55,17 @@ Vous pouvez ensuite valider votre commande.
 
 Et voilà, vous avez commandé votre hébergement web. Celui-ci apparaîtra sur la page [_Mes services_](https://umbo-france.eu/client/mes-services) dans quelques instants.
 {% endtab %}
+
+{% tab title="Autres services \(Python, TeamSpeak, Mumble\)" %}
+Pour commander une offre Python, TeamSpeak ou Mumble, commencez par vous rendre sur le [module de commande de services](https://umbo-france.eu/client/commander). Sélectionnez le service désiré puis, dans le champ prévu à cet effet, choisissez le nom de votre service.
+
+![Choisissez le nom de votre service](.gitbook/assets/screenshot_2.png)
+
+Enfin, cliquez sur_Valider ma commande._
+
+Et voilà, vous avez commandé votre service. Celui-ci apparaîtra sur la page _Mes services_ dans quelques instants.
+{% endtab %}
 {% endtabs %}
+
+
 
