@@ -32,7 +32,9 @@ Depuis la sortie de la v2 d'Umbo, vous pouvez désormais commander \(en plus des
 
 {% tabs %}
 {% tab title="Commander une instance NodeJs" %}
-Pour commander une offre NodeJs, commencez par vous rendre sur le [module de commande de services](https://umbo-france.eu/client/commander). Sélectionnez _Instance NodeJs_ puis cliquez _Valider ma commande_.
+Pour commander une offre NodeJs, commencez par vous rendre sur le [module de commande de services](https://umbo-france.eu/client/commander). Sélectionnez _Instance NodeJs_ puis, dans le champ prévu à cet effet, choisissez le nom de votre service.
+
+Enfin, cliquez sur_Valider ma commande._
 {% endtab %}
 
 {% tab title="Second Tab" %}
