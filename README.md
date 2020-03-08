@@ -41,7 +41,7 @@ Enfin, cliquez sur_Valider ma commande._
 Et voilà, vous avez commandé votre Instance NodeJs. Celle-ci apparaîtra sur la page _Mes services_ dans quelques instants.
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Commander un hébergement web" %}
 
 {% endtab %}
 {% endtabs %}
