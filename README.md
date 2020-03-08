@@ -19,7 +19,9 @@ Si vous n'avez pas encore de compte, dirigez-vous vers [cette page](https://umbo
 * Gardez bien soigneusement votre mot de passe, vous en aurez besoin ultérieurement.
 {% endhint %}
 
-Une fois connectés sur l'espace client, vous devriez vous retrouver sur le [tableau de bord](https://umbo-france.eu/client/tableau-de-bord).
+Une fois connectés sur l'espace client, vous devriez vous retrouver sur le [tableau de bord](https://umbo-france.eu/client/tableau-de-bord) :
 
+![Aper&#xE7;u du tableau de bord](.gitbook/assets/index.png)
 
+Depuis la sortie de la v2 d'Umbo, vous pouvez désormais commander \(en plus des instances NodeJs pour bots Discord\) des instances Python \(pouvant être utilisées pour des bots Discord en Python\), des serveurs Mumble, TeamSpeak ou encore des hébergements web.
 
