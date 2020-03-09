@@ -11,4 +11,5 @@
 * [Notre Discord](https://discord.gg/s4PFvv8)
 * [Espace Client](https://umbo-france.eu/client/)
 * [Panel Pterodactyl](https://panel.umbo-france.eu)
+* [F.A.Q.](f.a.q..md)
 
