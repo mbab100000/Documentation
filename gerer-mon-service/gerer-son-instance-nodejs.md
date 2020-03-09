@@ -22,4 +22,11 @@ Mais ce que vous devriez avoir à l'écran serait plutôt ça si vous avez comma
 
 Voilà, en cliquant sur le nom de votre service, vous avez accès à tout ce dont vous avez besoin pour utiliser votre hébergement :
 * Un accès sFTP permettant le transfert de fichiers vers l'instance NodeJs
-* 
+* Console du serveur
+* Boutons d'allumage / extinction du serveur
+* Gestionnaire de Fichiers / éditeur de fichiers intégré
+* Gestionnaire d'Utilisateurs permattant de travailler à plusieurs sur un même service
+* Système d'automatisation des tâches (permettant de programmer une instruction pour plus tard)
+* Gestionnaire de bases de données (exceptionnellement si nécessaire pour votre projet
+
+> ⚠ N'oubliez pas de condigurer une commande de démarrage de votre service !
