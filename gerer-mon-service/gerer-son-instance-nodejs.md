@@ -20,3 +20,6 @@ Mais ce que vous devriez avoir à l'écran serait plutôt ça si vous avez comma
 
 ![Panel de gestion pterodactyl comportant un service](../.gitbook/assets/img_0677.jpeg)
 
+Voilà, en cliquant sur le nom de votre service, vous avez accès à tout ce dont vous avez besoin pour utiliser votre hébergement :
+* Un accès sFTP permettant le transfert de fichiers vers l'instance NodeJs
+* 
