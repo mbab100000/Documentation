@@ -29,4 +29,4 @@ Voilà, en cliquant sur le nom de votre service, vous avez accès à tout ce don
 * Système d'automatisation des tâches (permettant de programmer une instruction pour plus tard)
 * Gestionnaire de bases de données (exceptionnellement si nécessaire pour votre projet
 
-> ⚠ N'oubliez pas de condigurer une commande de démarrage de votre service !
+> ⚠ N'oubliez pas de configurer une commande de démarrage de votre service !
