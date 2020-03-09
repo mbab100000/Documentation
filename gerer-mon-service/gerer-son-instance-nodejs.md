@@ -8,5 +8,5 @@ Pour accéder à l'interface de gestion de votre Instance NodeJs, rendez vous su
 
 Cliquez sur « Gérer mon service » : ![](https://i.ibb.co/LN5pCQ3/A1-A01-FCC-3-AEA-45-A2-A610-2588-D4-E35-F61.jpg)
 
-Vous devriez être redirigé vers le panel de gestion des serveurs _pterodactyl_. Si ce n'est pas le cas, [**cliquez ici**](https://panel.umbo-france.eu).
+Vous devriez être redirigé vers le panel de gestion _pterodactyl_ des serveurs. Si ce n'est pas le cas, [**cliquez ici**](https://panel.umbo-france.eu).
 
