@@ -15,4 +15,5 @@ Vous devriez être redirigé vers le panel de gestion _pterodactyl_ des serveurs
 Sans services commandés, le panel devrait ressembler à ça : .
 
 ![Panel de gestion pterodactyl sans services](https://i.ibb.co/Mkj8PnM/206-D127-C-1-B1-E-48-BF-A847-19259-E11687-F.jpg)
+
 Mais ce que vous devriez avoir à l'écran serait plutôt ça si vous avez commandé un ou plusieurs services :
