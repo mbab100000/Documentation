@@ -10,3 +10,4 @@ Cliquez sur « Gérer mon service » : ![](https://i.ibb.co/LN5pCQ3/A1-A01-FCC-3
 
 Vous devriez être redirigé vers le panel de gestion _pterodactyl_ des serveurs. Si ce n'est pas le cas, [**cliquez ici**](https://panel.umbo-france.eu).
 
+Sans services commandés, le panel devrait ressembler à ça : ![](https://i.ibb.co/Mkj8PnM/206-D127-C-1-B1-E-48-BF-A847-19259-E11687-F.jpg).
